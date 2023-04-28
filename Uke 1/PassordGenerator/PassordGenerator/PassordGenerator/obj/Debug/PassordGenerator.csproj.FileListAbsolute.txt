@@ -1,0 +1,7 @@
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\bin\Debug\PassordGenerator.exe
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\bin\Debug\PassordGenerator.pdb
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.csproj.AssemblyReference.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.exe
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\PassordGenerator\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.pdb

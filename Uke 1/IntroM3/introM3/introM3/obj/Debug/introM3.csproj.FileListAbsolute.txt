@@ -1,0 +1,7 @@
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\obj\Debug\introM3.csproj.AssemblyReference.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\obj\Debug\introM3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\obj\Debug\introM3.csproj.CoreCompileInputs.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\bin\Debug\introM3.exe
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\bin\Debug\introM3.pdb
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\obj\Debug\introM3.exe
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\IntroM3\introM3\introM3\obj\Debug\introM3.pdb

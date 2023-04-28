@@ -1,0 +1,15 @@
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\bin\Debug\net7.0\TestApp1.exe
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\bin\Debug\net7.0\TestApp1.deps.json
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\bin\Debug\net7.0\TestApp1.runtimeconfig.json
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\bin\Debug\net7.0\TestApp1.dll
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\bin\Debug\net7.0\TestApp1.pdb
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.csproj.AssemblyReference.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.AssemblyInfoInputs.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.AssemblyInfo.cs
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.dll
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\refint\TestApp1.dll
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.pdb
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\TestApp1.genruntimeconfig.cache
+C:\Users\Simen\OneDrive\GitHub\Modul 3\Modul-3\Uke 1\TestApp1\TestApp1\obj\Debug\net7.0\ref\TestApp1.dll
